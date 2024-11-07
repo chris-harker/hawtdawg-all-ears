@@ -10,3 +10,7 @@ Breed: **Beagle**
 
 
 Location: **Philadelphia**
+
+Skills: Following scent trails, digging holes, treeing
+squirrels, looking after small children, guarding the pack,
+stealing chicken when the little humas isn't looking
